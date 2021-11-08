@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="editText_hint">Username</string>
+    <string name="editText_hint2">Password</string>
+    <string name="editText_addNoteHint">Write here...</string>
+    <string name="saveButton">Save</string>
+</resources>
